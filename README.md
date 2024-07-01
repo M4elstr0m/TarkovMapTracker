@@ -91,7 +91,7 @@ Settings are also accessible from /tarkov-map-tracker/settings.txt
   </tr>
   <tr>
     <td>Reserve</td>
-    <td>✅ (not 100% accurate)</td>
+    <td>✅  (not 100% accurate)</td>
     <td>v1.0</td>
   </tr>
   <tr>
