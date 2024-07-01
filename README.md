@@ -55,9 +55,9 @@ Settings are also accessible from /tarkov-map-tracker/settings.txt
 <div>
 <table>
   <tr>
-    <th>Language Name</th>
+    <th>Map</th>
     <th>Supported</th>
-    <th>Version</th>
+    <th>Software Version</th>
   </tr>
   <tr>
     <td>Customs</td>
