@@ -114,6 +114,6 @@ Settings are also accessible from /tarkov-map-tracker/settings.txt
 
 ## 🗒️ Credits
 <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a> (this script was made for this game after all)<br>
-<a href="https://tarkov.dev">Tarkov.dev</a> and <a href="https://github.com/Shebuka">Shebuka</a> (for the maps used in my script)<br>
+<a href="https://tarkov.dev">Tarkov.dev</a> and <a href="https://github.com/Shebuka">Shebuka</a> @Shebuka (for the maps used in my script)<br>
 This script was made using the following Python modules: ```pillow```, ```tkinter```, ```keyboard```
 
