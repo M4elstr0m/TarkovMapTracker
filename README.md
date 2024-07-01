@@ -43,8 +43,8 @@ start /min python ./gui.py
 
 In the GUI you have 4 types of button:
 
-**Bind Key**: You can bind a key to refresh the map (with AutoMode activated, please bind the same key as your in-game Tarkov screenshot key)<br>
-**AutoMode**: Will refresh the map automatically every 5 seconds, **if the BindKey is the same as Tarkov**, it will also take a screenshot at the same time, so you don't have anything to do but looking at the map.<br>
+**Keybind**: You can bind a key to refresh the map (with AutoMode activated, please bind the same key as your in-game Tarkov screenshot key). "$" key by default<br>
+**AutoMode**: Will refresh the map automatically every 5 seconds, **if the Keybind is the same as Tarkov**, it will also take a screenshot at the same time, so you don't have anything to do but looking at the map.<br>
 **Delete Screenshots**: This button has to be pressed two times in order to fully clear **all** your Tarkov Screenshot directory.<br> **WHEN DELETED YOU CANNOT RETRIEVE YOUR FILES ANYMORE**<br>
 
 **Maps button**: When you click on the button corresponding to a map, this map opens and either you or the script have to refresh it (depending on AutoMode state)<br>
