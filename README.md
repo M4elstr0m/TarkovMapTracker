@@ -35,9 +35,9 @@ cd tarkov-map-tracker
 start /min python ./gui.py
 ```
 <br>
-- The script is tracking your position using screenshots so you have to take a screenshot and then refresh your map using the BindKey (by default "$") or not, depending on AutoMode state.<br><br>
+- The script is tracking your position using screenshots so you have to take a screenshot and then refresh your map using the Keybind (by default "$") or not, depending on AutoMode state.<br><br>
 - The script won't be able to recognize on which map you are automatically (since a screenshot does'nt have this information inside it), you have to choose the right map by yourself.<br><br>
-- I suggest you to rebind your Tarkov in-game Screenshot keybind for the same as Bindkey in Tarkov Map Tracker (notice that ImpScreen may not work because it triggers the Windows service himself) :  for eg if your in-game key is "M" to do a screenshot, bind the Tarkov Map Tracker with "M" as well.<br><br>
+- I suggest you to rebind your Tarkov in-game Screenshot keybind for the same as Keybind in Tarkov Map Tracker (notice that ImpScreen may not work because it triggers the Windows service himself) :  for eg if your in-game key is "M" to do a screenshot, bind the Tarkov Map Tracker with "M" as well.<br><br>
 
 ## 🔧 Setting-up
 
