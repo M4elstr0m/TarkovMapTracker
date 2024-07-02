@@ -17,7 +17,7 @@ Notice that this software is only helpful when you have Escape From Tarkov insta
 
 Manual installation (not suggested):
 ```bash
-git clone https://github.com/M4elstr0m/OneCompiler.git
+git clone https://github.com/M4elstr0m/TarkovMapTracker.git
 ```
 
 ZIP (Archive) Installation:
