@@ -25,14 +25,14 @@ ZIP (Archive) Installation:
 2. Unzip the archive using WinRAR or 7zip for example
 3. Keep the folder where you want to store your **Tarkov Map Tracker**
 ## 📚 Usage
-You just have to double click on "Start.bat"
+You just have to double click on "Start.bat" (if Windows is blocking you just click on 'More infos' then 'Run anyway')
 
 Content of "Start.bat":
 
 ```bash
-@echo off
-cd tarkov-map-tracker
-start /min python ./gui.py
+@echo off #that means there won't be a terminal window
+cd tarkov-map-tracker #goes into the software directory
+start /min python ./gui.py #starts python minimized so you only have the gui on your screen
 ```
 <br>
 - The software is tracking your position using screenshots so you have to take a screenshot and then refresh your map using the Keybind (by default "$") or not, depending on AutoMode state.<br><br>
