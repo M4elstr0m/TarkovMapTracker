@@ -1,6 +1,6 @@
 # **Tarkov Map Tracker by M4elstr0m**
 Tarkov Map Tracker is designed to help beginners to find themselves on the huge maps of <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>
-<br>I made this software because I did not find any app that really tracks your location in Tarkov
+<br>I made this software because I did not find any app that really tracks your location in real time in Tarkov
 
 <br>
 Don't hesitate to reach me, or donate using the links on <a href="https://github.com/M4elstr0m/">my profile</a>, all donations are appreciated 😉
