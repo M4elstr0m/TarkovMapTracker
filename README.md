@@ -3,8 +3,10 @@ Tarkov Map Tracker is designed to help beginners to find themselves on the huge 
 <br>I made this software because I did not find any app that really tracks your location in real time in Tarkov
 
 <br>
+
+**Please star this repository if you find it useful** ⭐ <br> 
 Don't hesitate to reach me, or donate using the links on <a href="https://github.com/M4elstr0m/">my profile</a>, all donations are appreciated 😉
-<br><br>
+<br>
 
 <br>There is no specific rules from Battlestate Games that does'nt allow this kind of maps, but beware if it is the case and please contact me!<br>
 **Use this software on your own risks if it is the case in the future ⚠️ I'm not responsible of any loss**<br>
