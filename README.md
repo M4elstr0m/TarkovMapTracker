@@ -1,5 +1,4 @@
-[//]: <[![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg)]()>
-# **Tarkov Map Tracker by M4elstr0m**
+# **Tarkov Map Tracker by M4elstr0m  [![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg)]()**
 Tarkov Map Tracker is designed to help beginners to find themselves on the huge maps of <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>
 <br>I made this software because I did not find any app that really tracks your location in real time in Tarkov
 
@@ -117,4 +116,3 @@ Settings are also accessible from /tarkov-map-tracker/settings.txt
 <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>: this software was made for this game after all<br>
 <a href="https://tarkov.dev">Tarkov.dev</a> and <a href="https://github.com/Shebuka">Shebuka</a>: for the maps used in this software and their help to check for potential copyright issues<br>
 This software was made using the following Python modules: ```pillow```, ```tkinter```, ```keyboard```
-<br><br> [![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg)]()
