@@ -9,7 +9,7 @@ Tarkov Map Tracker is designed to help beginners to find themselves on the huge 
 Don't hesitate to reach me, or donate using the links on <a href="https://github.com/M4elstr0m/">my profile</a>, all donations are appreciated 😉
 <br>
 
-<br>There is no specific rules from Battlestate Games that does'nt allow this kind of maps, but beware if it is the case and please contact me!<br>
+<br>There is no specific rules from Battlestate Games that does'nt allow to use screenshots, but beware if it is the case and please contact me!<br>
 **Use this software on your own risks if it is the case in the future ⚠️ I'm not responsible of any loss**<br>
 ## 🖥️ Platforms
 This software is Windows-only<br>
