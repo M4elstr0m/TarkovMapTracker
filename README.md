@@ -29,6 +29,7 @@ ZIP (Archive) Installation:
 3. Keep the folder where you want to store your **Tarkov Map Tracker**
 ## 📚 Usage
 You just have to double click on "Start.bat" (if Windows is blocking you just click on 'More infos' then 'Run anyway')
+⚠️ **If you get a missing module error, just type the command "pip install -r requirements.txt" in the main folder**
 
 Content of "Start.bat":
 
