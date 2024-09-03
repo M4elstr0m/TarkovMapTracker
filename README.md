@@ -43,6 +43,8 @@ start /min python ./gui.py #starts python minimized so you only have the gui on 
 - The software won't be able to recognize on which map you are automatically (since a screenshot does'nt have this information inside it), you have to choose the right map by yourself.<br><br>
 - I suggest you to rebind your Tarkov in-game Screenshot keybind for the same as Keybind in Tarkov Map Tracker (notice that ImpScreen may not work because it triggers the Windows service himself) :  for eg if your in-game key is "M" to do a screenshot, bind the Tarkov Map Tracker with "M" as well.<br><br>
 
+![image](https://github.com/user-attachments/assets/612e93a8-a3ac-455f-a761-2e3846520d7b)
+
 ## 🔧 Setting-up
 
 In the GUI you have 4 types of button:
