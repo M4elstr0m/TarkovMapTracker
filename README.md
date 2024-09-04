@@ -37,9 +37,9 @@ ZIP (Archive) Installation:
 If you don't have **pip** installed yet, just type the command ```py -m ensurepip --upgrade```
 
 ## 📚 Usage
-You just have to double click on "Start.bat" (if Windows is blocking you just click on 'More infos' then 'Run anyway')
+You just have to double click on "start.exe" (if Windows is blocking you just click on 'More infos' then 'Run anyway')
 <br>
-⚠️ **If there is not any window showing up**, maybe the problem is from the "Start.bat", then you can go in the "_tarkov-map-tracker_" folder and type the following command in a terminal window: ```py gui.py``` or ```python gui.py```
+⚠️ **If there is not any window showing up**, maybe the problem is from the "start.exe", then you can go in the "_tarkov-map-tracker_" folder and type the following command in a terminal window: ```py gui.py``` or ```python gui.py```
 <br>
 <br>
 - The software is tracking your position using screenshots so you have to take a screenshot and then refresh your map using the Keybind (by default "$") or not, depending on AutoMode state.<br><br>
