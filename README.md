@@ -16,9 +16,9 @@ This software is Windows-only<br>
 Notice that this software is only helpful when you have Escape From Tarkov installed on your computer.
 
 ## 🛠️ Installation
-**Please install Python 3.10 version or higher before installing Tarkov Map Tracker**<br>
+**Please install Python 3.10 version or higher before installing Tarkov Map Tracker and be sure that you also have "pip" installed**<br>
 
-Manual installation (not suggested):
+Command installation (for CLI-Github users):
 ```bash
 git clone https://github.com/M4elstr0m/TarkovMapTracker.git
 ```
@@ -27,17 +27,20 @@ ZIP (Archive) Installation:
 1. Just download the repository by clicking on **< > Code** then click on **Download ZIP**
 2. Unzip the archive using WinRAR or 7zip for example
 3. Keep the folder where you want to store your **Tarkov Map Tracker**
-## 📚 Usage
-You just have to double click on "Start.bat" (if Windows is blocking you just click on 'More infos' then 'Run anyway')
+
+<br>
+
 ⚠️ **If you get a missing module error, just type the command "pip install -r requirements.txt" in the main folder**
 
-Content of "Start.bat":
+<br>
 
-```bash
-@echo off #that means there won't be a terminal window
-cd tarkov-map-tracker #goes into the software directory
-start /min python ./gui.py #starts python minimized so you only have the gui on your screen
-```
+If you don't have **pip** installed yet, just type the command ```py -m ensurepip --upgrade```
+
+## 📚 Usage
+You just have to double click on "Start.bat" (if Windows is blocking you just click on 'More infos' then 'Run anyway')
+<br>
+⚠️ **If there is not any window showing up**, maybe the problem is from the "Start.bat", then you can go in the "_tarkov-map-tracker_" folder and type the following command in a terminal window: ```py gui.py``` or ```python gui.py```
+<br>
 <br>
 - The software is tracking your position using screenshots so you have to take a screenshot and then refresh your map using the Keybind (by default "$") or not, depending on AutoMode state.<br><br>
 - The software won't be able to recognize on which map you are automatically (since a screenshot does'nt have this information inside it), you have to choose the right map by yourself.<br><br>
