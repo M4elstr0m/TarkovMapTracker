@@ -6,4 +6,4 @@ Attribution-NonCommercial-NoDerivatives 4.0 International  |  CC BY-NC-ND 4.0
 
 <br>
 
-Please refer to the full legal code: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
