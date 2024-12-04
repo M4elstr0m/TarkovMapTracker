@@ -3,11 +3,11 @@
 ## <h1 align="center">🧭 Tarkov Map Tracker by M4elstr0m</h1>
 <p align="center">Watch your realtime Escape From Tarkov in-game location 🗺️</p>
 
-<a align="center">
+<div align="center">
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=visitors&right_color=orange) ![Static Badge](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/size-32_Mo-green) ![GitHub language count](https://img.shields.io/github/languages/count/M4elstr0m/TarkovMapTracker) ![Static Badge](https://img.shields.io/badge/platform-windows-red)
 
-</a>
+</div>
 
 <div align="center">
   <!--
@@ -17,9 +17,9 @@
   <img src='https://raw.githubusercontent.com/M4elstr0m/TarkovMapTracker/main/assets/icons/icon.png' alt="Icon of the Tarkov Map Tracker" style="width:50%; height: auto">
 </div>
 
-<div>
-
 <u>**Languages:**</u>
+
+<div>
 
 <a href="https://github.com/M4elstr0m/TarkovMapTracker">
     <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg" alt="English GB">
