@@ -45,7 +45,7 @@ Do not hesitate to reach me, using the links on <a href="https://github.com/M4el
 
 </h6>
 
-#### <p style="background-color: #965013; color:white; padding: 7px; border-radius: 15px; display: inline-block;">⚠️ Disclaimer</p>
+<h4 style="background-color: #965013; color:white; padding: 7px; border-radius: 15px; display: inline-block;">⚠️ Disclaimer</h4>
 
 **What this app can't do:**
 - Access location of in-game elements such as loot or enemies
