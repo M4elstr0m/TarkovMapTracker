@@ -1,7 +1,13 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors) ![Static Badge](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-lightgrey)
 # **Tarkov Map Tracker by M4elstr0m**
 <!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
-
+<a href="https://github.com/M4elstr0m/TarkovMapTracker">
+    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg" alt="English GB">
+</a>
+<a href="https://github.com/M4elstr0m/TarkovMapTracker/README.fr.md">
+    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg" alt="Français FR">
+</a>
+<br>
 Tarkov Map Tracker is designed to help beginners to find themselves on the huge maps of <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>
 <br>I made this software because I did not find any app that really tracks your location in real time in Tarkov
 
@@ -11,8 +17,8 @@ Tarkov Map Tracker is designed to help beginners to find themselves on the huge 
 Don't hesitate to reach me, or donate using the links on <a href="https://github.com/M4elstr0m/">my profile</a>, all donations are appreciated 😉
 <br>
 
-<br>There is no specific rules from Battlestate Games that does'nt allow to use screenshots, but beware if it is the case and please contact me!<br>
-**This is not a cheat since it only uses screenshots from the game, but use this software on your own risks if there is a rule about this in the future ⚠️ I'm not responsible of any loss**<br>
+**This is not a cheat since it only uses external stuff of the game, but use this software at your own risk. If there is a rule about this in the future please contact me ⚠️ I'm not responsible of any loss**<br>
+
 ## 🖥️ Platforms
 This software is Windows-only<br>
 Notice that this software is only helpful when you have Escape From Tarkov installed on your computer.
