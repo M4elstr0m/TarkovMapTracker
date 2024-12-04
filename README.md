@@ -17,7 +17,7 @@
   <img src='https://raw.githubusercontent.com/M4elstr0m/TarkovMapTracker/main/assets/icons/icon.png' alt="Icon of the Tarkov Map Tracker" style="width:50%; height: auto">
 </div>
 
-<u>**Languages:**</u>
+<ins>**Languages:**</ins>
 
 <div>
 
@@ -32,7 +32,7 @@
 
 ---
 
-### <p align="center">Please star this repository if you find it useful ⭐</p>
+## <p align="center">Please star this repository if you find it useful ⭐</p>
 
 <h6>
 
@@ -45,26 +45,26 @@ Do not hesitate to reach me, using the links on <a href="https://github.com/M4el
 
 </h6>
 
-<h4 style="background-color: #965013; color:white; padding: 7px; border-radius: 15px; display: inline-block;">⚠️ Disclaimer</h4>
+### ⚠️ <ins>Disclaimer</ins>
 
 **What this app can't do:**
 - Access location of in-game elements such as loot or enemies
 - Modify your own in-game location
 
-**This is not a cheat since it only uses external stuff of the game, but use this software at your own risk. If there is a rule about this in the future please contact me ⚠️ <u>Still, I am not responsible of any loss**</u><br>
+**This is not a cheat since it only uses external stuff of the game, but use this software at your own risk. If there is a rule about this in the future please contact me ⚠️ <ins>Still, I am not responsible of any loss**</ins><br>
 
 ## 📦 Installation
 **Please try to start Escape From Tarkov (EFT) at least once and take a screenshot before trying this software**<br>
 
-<u>Web Installation:</u>
+<ins>Web Installation:</ins>
 1. Just download the repository by clicking on **< > Code** and then click on **Download ZIP**
 2. Unzip the archive into a folder
 3. Keep the folder where you want to store the Tarkov Map Tracker
 4. Start the application by double clicking on ***TarkovMapTracker.exe***
 
-<u>**OR**</u>
+<ins>**OR**</ins>
 
-<u>Command-line installation (for Github CLI users):</u>
+<ins>Command-line installation (for Github CLI users):</ins>
 ```bash
 git clone https://github.com/M4elstr0m/TarkovMapTracker.git
 ```
