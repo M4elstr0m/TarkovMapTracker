@@ -9,7 +9,7 @@
 
 </a>
 
-<div>
+<div align="center">
   <!--
   <img src='https://repository-images.githubusercontent.com/822545180/b541e06a-a1ca-4e8c-8104-d6867d34d42c' alt="banner" style="width:60%; height: auto; display: inline-block; border: 2px solid #000; border-radius: 15px; padding: 0px; background-color: #fff;" >
   -->
