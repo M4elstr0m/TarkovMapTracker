@@ -9,12 +9,12 @@
 
 </a>
 
-<div style="text-align: center;">
+<div>
   <!--
   <img src='https://repository-images.githubusercontent.com/822545180/b541e06a-a1ca-4e8c-8104-d6867d34d42c' alt="banner" style="width:60%; height: auto; display: inline-block; border: 2px solid #000; border-radius: 15px; padding: 0px; background-color: #fff;" >
   -->
 
-  <img src='https://raw.githubusercontent.com/M4elstr0m/TarkovMapTracker/main/assets/icons/icon.png' alt="Icon of the Tarkov Map Tracker" style="width:30%; height: auto">
+  <img src='https://raw.githubusercontent.com/M4elstr0m/TarkovMapTracker/main/assets/icons/icon.png' alt="Icon of the Tarkov Map Tracker" style="width:30%; height: auto; display: block; margin-left: auto; margin-right: auto">
 
 </div>
 
