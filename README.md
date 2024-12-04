@@ -1,9 +1,7 @@
-## ****HUGE UPDATE COMING SOON****
-## ****HUGE UPDATE COMING SOON****
-## ****HUGE UPDATE COMING SOON****
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors) ![Static Badge](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-lightgrey)
+# **Tarkov Map Tracker by M4elstr0m**
+<!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
 
-# **Tarkov Map Tracker by M4elstr0m ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors)**
-[//]:<[![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg)]()>
 Tarkov Map Tracker is designed to help beginners to find themselves on the huge maps of <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>
 <br>I made this software because I did not find any app that really tracks your location in real time in Tarkov
 
