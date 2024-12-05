@@ -21,12 +21,7 @@
 
 <div>
 
-<a href="https://github.com/M4elstr0m/TarkovMapTracker">
-    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg" alt="English GB">
-</a>
-<a href="https://github.com/M4elstr0m/TarkovMapTracker/README.fr.md">
-    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg" alt="Français FR">
-</a>
+[![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](.) [![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md)
 
 </div>
 
