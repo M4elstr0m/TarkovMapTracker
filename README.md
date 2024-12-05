@@ -74,7 +74,8 @@ You just have to double click on ***TarkovMapTracker.exe*** (if Windows prevents
 
 <br>
 
-![image](insert image of GUI)
+![gui-screenshot](https://github.com/user-attachments/assets/b7ae7639-9fee-4337-b123-d8bb016d479e)
+
 
 <br>
 
@@ -91,23 +92,53 @@ To display your position correctly, you will have to select among the maps the o
 
 <ins>There are several buttons on the user interface</ins> (see GUI screenshot above):
 
-**Locate**: Locates yourself on the map using your latest screenshot
-![image](insert every image of every button)
+**Locate**: Locates yourself on the map using your latest screenshot<br>
 
-**Maps**: Allows you to change the current map
-![image](insert every image of every button)
+<details>
+<summary>Screenshot 🖼️</summary>
+  
+![locate-button](https://github.com/user-attachments/assets/0c1cd22c-15a6-488f-b98b-7e271a9f2754)
+</details>
 
-**AutoMode**: Checking this will enable the auto-refreshing feature of the software, so the **Locate** button won't be useful anymore
-![image](insert every image of every button)
 
-**Speed**: When **AutoMode** is checked, this determines the rate of the **AutoMode** (Fast/Normal/Slow)
-![image](insert every image of every button)
+**Maps**: Allows you to change the current map<br>
 
-**Folder**: Opens the screenshot folder of Escape From Tarkov
-![image](insert every image of every button)
+<details>
+<summary>Screenshot 🖼️</summary>
+<img src='https://github.com/user-attachments/assets/cd9b3b61-14fc-41cb-a23c-f0f9c8fef7ea' alt="Maps Panel" style="width: 20%; height: auto">
+</details>
 
-**Github**: Opens the webpage of <a href="https://github.com/M4elstr0m/TarkovMapTracker">Tarkov Map Tracker</a>
-![image](insert every image of every button)
+**AutoMode**: Checking this will enable the auto-refreshing feature of the software, so the **Locate** button won't be useful anymore<br>
+
+<details>
+<summary>Screenshot 🖼️</summary>
+
+![auto-mode-checkbox](https://github.com/user-attachments/assets/d4565391-7813-412e-a979-3a0db5c1f83d)
+</details>
+
+**Speed**: When **AutoMode** is checked, this determines the rate of the **AutoMode** (Fast/Normal/Slow)<br>
+
+<details>
+<summary>Screenshot 🖼️</summary>
+
+![speed-button](https://github.com/user-attachments/assets/4c83bf81-d571-4a8f-8096-f02b29ce2ac7)
+</details>
+
+**Folder**: Opens the screenshot folder of Escape From Tarkov<br>
+
+<details>
+<summary>Screenshot 🖼️</summary>
+
+![folder-button](https://github.com/user-attachments/assets/8929c990-2edd-4448-8ed8-7abf618a10bb)
+</details>
+
+**Github**: Opens the webpage of <a href="https://github.com/M4elstr0m/TarkovMapTracker">Tarkov Map Tracker</a><br>
+
+<details>
+<summary>Screenshot 🖼️</summary>
+
+![github-button](https://github.com/user-attachments/assets/77e086fd-c47f-4205-a2ff-edbeefe66a4a)
+</details>
 
 ⚠️ **Do not modify the settings.ini file manually, or you may have to re-download the TarkovMapTracker**
 
