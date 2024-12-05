@@ -103,6 +103,12 @@ To display your position correctly, you will have to select among the maps the o
 **Speed**: When **AutoMode** is checked, this determines the rate of the **AutoMode** (Fast/Normal/Slow)
 ![image](insert every image of every button)
 
+**Folder**: Opens the screenshot folder of Escape From Tarkov
+![image](insert every image of every button)
+
+**Github**: Opens the webpage of <a href="https://github.com/M4elstr0m/TarkovMapTracker">Tarkov Map Tracker</a>
+![image](insert every image of every button)
+
 ⚠️ **Do not modify the settings.ini file manually, or you may have to re-download the TarkovMapTracker**
 
 <h6><ins>To my fellow developers</ins>: You might have noticed that there was a setting "Hotkey" amid the settings.ini file; this is related to a beta feature of the TarkovMapTracker that I will <ins>eventually</ins> add in the future</h6>
