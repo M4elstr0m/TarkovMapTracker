@@ -11,7 +11,7 @@
 
 <div align="center">
   <!--
-  <img src='https://repository-images.githubusercontent.com/822545180/b541e06a-a1ca-4e8c-8104-d6867d34d42c' alt="banner" style="width:60%; height: auto; display: inline-block; border: 2px solid #000; border-radius: 15px; padding: 0px; background-color: #fff;" >
+  <img src='https://repository-images.githubusercontent.com/822545180/b541e06a-a1ca-4e8c-8104-d6867d34d42c' alt="social media preview banner" style="width:60%; height: auto; display: inline-block; border: 2px solid #000; border-radius: 15px; padding: 0px; background-color: #fff;" >
   -->
 
   <img src='https://raw.githubusercontent.com/M4elstr0m/TarkovMapTracker/main/assets/icons/icon.png' alt="Icon of the Tarkov Map Tracker" style="width:50%; height: auto">
@@ -54,7 +54,7 @@ Do not hesitate to reach me, using the links on <a href="https://github.com/M4el
 **This is not a cheat since it only uses external stuff of the game, but use this software at your own risk. If there is a rule about this in the future please contact me ⚠️ <ins>Still, I am not responsible of any loss**</ins><br>
 
 ## 📦 Installation
-**Please try to start Escape From Tarkov (EFT) at least once and take a screenshot before trying this software**<br>
+**Please try to start Escape From Tarkov (EFT) at least once before trying this software**<br>
 
 <ins>Web Installation:</ins>
 1. Just download the repository by clicking on **< > Code** and then click on **Download ZIP**
@@ -89,23 +89,26 @@ To display your position correctly, you will have to select among the maps the o
 
 ## 🛠️ Settings
 
-<!-- You are here --->
+<ins>There are several buttons on the user interface</ins> (see GUI screenshot above):
 
-There are multiple buttons on the user interface (see above screenshot):
-
+**Locate**: Locates yourself on the map using your latest screenshot
 ![image](insert every image of every button)
 
-<!--
-**Keybind**: You can bind a key to refresh the map (with AutoMode activated, please bind the same key as your in-game Tarkov screenshot key). "$" key by default<br><br>
-**AutoMode**: Will refresh the map automatically every 5 seconds, **if the Keybind is the same as Tarkov**, it will also take a screenshot at the same time, so you don't have anything to do but looking at the map.<br><br>
-**Delete Screenshots**: This button has to be pressed two times in order to fully clear **all** your Tarkov Screenshot directory.<br> **WHEN DELETED YOU CANNOT RETRIEVE YOUR FILES ANYMORE**<br>
+**Maps**: Allows you to change the current map
+![image](insert every image of every button)
 
-**Maps button**: When you click on the button corresponding to a map, this map opens and either you or the software have to refresh it (depending on AutoMode state)<br><br>
+**AutoMode**: Checking this will enable the auto-refreshing feature of the software, so the **Locate** button won't be useful anymore
+![image](insert every image of every button)
 
-Settings are also accessible from /tarkov-map-tracker/settings.txt
---->
+**Speed**: When **AutoMode** is checked, this determines the rate of the **AutoMode** (Fast/Normal/Slow)
+![image](insert every image of every button)
+
+⚠️ **Do not modify the settings.ini file manually, or you may have to re-download the TarkovMapTracker**
+
+<h6><ins>To my fellow developers</ins>: You might have noticed that there was a setting "Hotkey" amid the settings.ini file; this is related to a beta feature of the TarkovMapTracker that I will <ins>eventually</ins> add in the future</h6>
 
 ## 🧩 Supported Maps
+<!-- 🚧✅ --->
 <div>
 <table>
   <tr>
@@ -171,6 +174,10 @@ Settings are also accessible from /tarkov-map-tracker/settings.txt
 This software is only for **Windows** and is only helpful when you have Escape From Tarkov installed on your computer
 
 ## ⚡Performance
+I previously developed this application in Python, but I decided to recreate it in Golang for performance reasons
+
+Indeed, Golang allows me to manage the computer's resources more efficiently, ensuring that this application does not consume too much memory while running alongside Escape From Tarkov
+Based on my tests, the application can take from 80 Mb to 110 Mb of RAM depending on the **Speed** setting, which is good, since players need at least 16 Go of RAM to play the game
 
 ## 🗒️ Credits
 <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>: this software has been made for this game after all
