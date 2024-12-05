@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=visitors&right_color=orange) ![Static Badge](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/size-32_Mo-green) ![GitHub language count](https://img.shields.io/github/languages/count/M4elstr0m/TarkovMapTracker) ![Static Badge](https://img.shields.io/badge/platform-windows-red)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=visitors&right_color=orange) ![Static Badge](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/size-32_Mo-green) ![Static Badge](https://img.shields.io/badge/languages-2-blue) ![Static Badge](https://img.shields.io/badge/platform-windows-red)
 
 </div>
 
