@@ -21,7 +21,7 @@
 
 <div>
 
-[![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](.) [![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md)
+[![English](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](.) [![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md)
 
 </div>
 
