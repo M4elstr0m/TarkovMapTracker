@@ -1,4 +1,6 @@
 I'm starting a brand new update! This will be a major QoL improvement. I will reveal details about it in a near future
+
+Should be ready before September 😎
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI2dWFwMzZvZ2h4N2pydGEzOW9hM294YTZnbWF2NmlxM3ptMmc3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XzqEFZ06NSFgXaut2g/giphy.gif" width="400" height="200"/>
 </div>
