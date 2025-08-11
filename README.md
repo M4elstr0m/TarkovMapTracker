@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI2dWFwMzZvZ2h4N2pydGEzOW9hM294YTZnbWF2NmlxM3ptMmc3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XzqEFZ06NSFgXaut2g/giphy.gif" width="400" height="200"/>
+</div>
+
 <!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
 
 ## <h1 align="center">🧭 Tarkov Map Tracker by M4elstr0m</h1>
