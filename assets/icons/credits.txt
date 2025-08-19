@@ -1,0 +1,5 @@
+www.iconfinder.com -> folder.png
+leonardo.ai -> app.png
+
+github.com/M4elstr0m -> player.png
+tarkov.dev -> the rest

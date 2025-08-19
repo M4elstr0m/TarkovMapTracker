@@ -1,0 +1,12 @@
+{
+  "forcepath": "",
+  "theme": "dark",
+  "map": "customs",
+  "map_size": 880,
+  "player_size": 64,
+  "icon_size": 32,
+  "icon_text_size": 16,
+  "zoom_level": 1,
+  "scan_speed": 60,
+  "show_pmc_extracts": true
+}
