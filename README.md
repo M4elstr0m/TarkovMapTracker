@@ -1,7 +1,6 @@
 # <div align="center">Version 2.0.0 Now Available !</div>
 <div align="center">This README.md is under construction 🚧</div>
 
-
 <!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
 
 ## <h1 align="center">🧭 Tarkov Map Tracker by M4elstr0m</h1>
@@ -64,7 +63,7 @@ Just extract the archive and launch ***TarkovMapTracker.exe*** (if Windows preve
 
 <br>
 
-![new-version-screenshot](link)
+<img src='https://github.com/user-attachments/assets/68742bc5-2924-4515-ba2c-a80d38b4e393' alt="v2.0.0 version screenshot" style="width:50%; height: 50%">
 
 <br>
 
@@ -78,7 +77,7 @@ To display your position correctly, you will have to select among the maps the o
 <details>
 <summary>Screenshot 🖼️</summary>
   
-![locate-button](https://github.com/user-attachments/assets/0c1cd22c-15a6-488f-b98b-7e271a9f2754)
+![locate-button](picture)
 </details>
 --->
 
@@ -95,4 +94,5 @@ This software is only for **Windows** and is only helpful when you have Escape F
 <a href="https://tarkov.dev">Tarkov.dev</a> and <a href="https://github.com/Shebuka">Shebuka</a>: for the maps used in this software and their help to check for potential copyright issues
 This software has been created using the following Golang modules: ```fyne/v2```, ```disintegration/imaging```, ```pkg/browser```
 
-This is Golang.
+<div align="center"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif"></div>
+<div align="center"><b>This is Golang.</b></div>
