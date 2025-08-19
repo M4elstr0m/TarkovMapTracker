@@ -1,0 +1,90 @@
+{
+    "customs": {
+        "name": "customs",
+        "xmin": -375,
+	    "xmax": 700,
+	    "zmin": -307,
+	    "zmax": 237
+    },
+
+    "factory": {
+        "name": "factory",
+        "xmin": -67,
+	    "xmax": 79,
+	    "zmin": -65,
+	    "zmax": 67
+    },
+
+    "groundzero": {
+        "name": "groundzero",
+        "xmin": -100,
+	    "xmax": 250,
+	    "zmin": -120,
+	    "zmax": 360
+    },
+
+    "interchange": {
+        "name": "interchange",
+        "xmin": -364,
+	    "xmax": 532,
+	    "zmin": -442,
+	    "zmax": 453
+    },
+
+    "labs": {
+        "name": "labs",
+        "xmin": -287,
+	    "xmax": -80,
+	    "zmin": -477,
+	    "zmax": -193
+    },
+
+    "lighthouse": {
+        "name": "lighthouse",
+        "xmin": -545,
+	    "xmax": 515,
+	    "zmin": -998,
+	    "zmax": 725
+    },
+
+    "reserve": {
+        "name": "reserve",
+        "xmin": -303,
+	    "xmax": 289,
+	    "zmin": -275,
+	    "zmax": 275
+    },
+
+    "shoreline": {
+        "name": "shoreline",
+        "xmin": -1060,
+	    "xmax": 508,
+	    "zmin": -415,
+	    "zmax": 618
+    },
+
+    "streets": {
+        "name": "streets",
+        "xmin": -280,
+	    "xmax": 323,
+	    "zmin": -317,
+	    "zmax": 554
+    },
+
+    "woods": {
+        "name": "woods",
+        "xmin": -700,
+	    "xmax": 650,
+	    "zmin": -945,
+	    "zmax": 470,
+
+        "pmc_extracts": [
+            {
+                "name": "ZB-014",
+                "location": [444, 59]
+            }
+        ]
+    }
+}
+
+ 
