@@ -155,6 +155,7 @@ You can see every changelogs in the [releases](https://github.com/M4elstr0m/Tark
 - [x] Complete overhaul and QoL improvements [v2.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v2.0.0)
 - [ ] French and Russian README.md
 - [ ] Add more interesting locations icons for each map (such as extracts)
+- [ ] Keybind to zoom-in without opening the Settings panel
 - [ ] Source code refactoring
 - [ ] Who knows!
 
