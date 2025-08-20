@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <!--
+  <!-- social preview (when sharing this repo)
   <img src='https://repository-images.githubusercontent.com/822545180/b541e06a-a1ca-4e8c-8104-d6867d34d42c' alt="social media preview banner" style="width:60%; height: auto; display: inline-block; border: 2px solid #000; border-radius: 15px; padding: 0px; background-color: #fff;" >
   -->
 
@@ -25,7 +25,11 @@
 
 <div>
 
-[![English](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](.) [![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md) [![Russian](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/RU.svg)](README.ru.md)
+[![English](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](.)
+<!--
+[![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md)
+[![Russian](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/RU.svg)](README.ru.md)
+-->
 
 </div>
 
@@ -63,23 +67,81 @@ Just extract the archive and launch ***TarkovMapTracker.exe*** (if Windows preve
 
 <br>
 
-<img src='https://github.com/user-attachments/assets/68742bc5-2924-4515-ba2c-a80d38b4e393' alt="v2.0.0 version screenshot" style="width:50%; height: 50%">
+To display your position correctly, you will have to select among the maps the one you are going to play. To do so, simply press the **Maps** button. Then take an in-game screenshots (using the EFT game hotkey), and that's all!
 
 <br>
 
-To display your position correctly, you will have to select among the maps the one you are going to play.
+<div align="center">
+<img src='https://github.com/user-attachments/assets/68742bc5-2924-4515-ba2c-a80d38b4e393' alt="v2.0.0 Version Screenshot" style="width:50%; height: 50%">
+<br>
+<figure><i>Screenshot of the main window of the TarkovMapTracker v2.0.0</i></figure>
+</div>
 
 ## 🛠️ Settings
 
-<!--
-**Locate**: Locates yourself on the map using your latest screenshot<br>
+<details>
+<summary><h3>Force Path</h3></summary>
+
+This settings allows you to overwrite the default EFT's screenshots path (`C:\Users\USERNAME\Documents\Escape from Tarkov`) with a new path. For example if your screenshots are on your Desktop you should put fill this entry with: `C:/Users/USERNAME/Desktop`
+
+Do not input quotes (`"` or `'`), the software handles it automatically.
+
+This feature was implemented as a fix for [this issue](https://github.com/M4elstr0m/TarkovMapTracker/discussions/2).
+
+</details>
 
 <details>
-<summary>Screenshot 🖼️</summary>
-  
-![locate-button](picture)
+<summary><h3>Theme</h3></summary>
+
+This settings allows you to choose your own color scheme for this app. In the [v1.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v1.0.0) users were not able to change to something else than the "Dark" theme.
+
+I may add more themes if requested. 
+
 </details>
---->
+
+<details>
+<summary><h3>Map Size</h3></summary>
+
+This settings allows you to resize the map in pixels unit, therefore the whole window. Do not scale it bigger than your monitor :)
+</details>
+
+<details>
+<summary><h3>Icons Size</h3></summary>
+
+These settings allows you to change icons size, like the player or the extracts. I suggest you only to only change player's size if needed but not the others.
+
+</details>
+
+<details>
+<summary><h3>Zoom Level</h3></summary>
+
+This settings allows you to zoom-in on your player. This also centers the player at the middle of the screen.
+
+This feature was requested [here](https://github.com/M4elstr0m/TarkovMapTracker/discussions/3)
+
+</details>
+
+<details>
+<summary><h3>Scan Speed</h3></summary>
+
+This settings allows you to change the frequency of window's refresh (if a new position appeared). `60` means that the window will be refreshed each second.
+
+</details>
+
+<details>
+<summary><h3>Show Icons Checkmarks</h3></summary>
+
+This settings allows you to display, or not, a category of icons on the map (like extracts, possible loot location). This is greatly inspired by Tarkov.dev
+
+</details>
+
+<br>
+
+<div align="center">
+<img alt="v2.0.0 Version Settings Panel" src="https://github.com/user-attachments/assets/990228f7-bc3c-4493-9de0-6b1ffd53c4e5" style="width:20%; height:20%"/>
+ <br>
+<figure><i>Screenshot of the settings panel of the TarkovMapTracker v2.0.0</i></figure>
+</div>
 
 ## 🚧 Known Issues
 <!-- 🚧✅ --->
