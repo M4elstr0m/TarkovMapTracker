@@ -1,8 +1,3 @@
-# <div align="center">Version 2.0.0 Now Available !</div>
-<div align="center">This README.md is under construction 🚧</div>
-
-<!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
-
 ## <h1 align="center">🧭 Tarkov Map Tracker by M4elstr0m</h1>
 <p align="center">Watch your realtime Escape From Tarkov in-game location 🗺️</p>
 
@@ -10,6 +5,8 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors&right_color=orange) ![GitHub Repo stars](https://img.shields.io/github/stars/M4elstr0m/TarkovMapTracker)
  ![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/Size-32_Mo-green) ![Static Badge](https://img.shields.io/badge/Languages-1-blue) ![Static Badge](https://img.shields.io/badge/Platform-Windows-red)
+
+<!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
 
 </div>
 
@@ -143,13 +140,24 @@ This settings allows you to display, or not, a category of icons on the map (lik
 <figure><i>Screenshot of the settings panel of the TarkovMapTracker v2.0.0</i></figure>
 </div>
 
+## 🖥️ Platforms
+This software is only for **Windows** and is only helpful when you have Escape From Tarkov installed on your computer
+
 ## 🚧 Known Issues
 <!-- 🚧✅ --->
 
 - Player's rotation might display oddly on **Reserve**
 
-## 🖥️ Platforms
-This software is only for **Windows** and is only helpful when you have Escape From Tarkov installed on your computer
+## 🗺️ Roadmap
+
+You can see every changelogs in the [releases](https://github.com/M4elstr0m/TarkovMapTracker/releases) tab
+
+- [x] Initial project setup [v1.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v1.0.0)
+- [x] Complete overhaul and QoL improvements [v2.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v2.0.0)
+- [ ] French and Russian README.md
+- [ ] Add more interesting locations icons for each map (such as extracts)
+- [ ] Source code refactoring
+- [ ] Who knows!
 
 ## 🗒️ Credits
 <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>: this software has been made for this game after all
