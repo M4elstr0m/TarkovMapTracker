@@ -145,7 +145,7 @@ This software is only for **Windows** and is only helpful when you have Escape F
 ## 🚧 Known Issues
 <!-- 🚧✅ --->
 
-- Player's rotation might display oddly on **Reserve**
+Don't hesitate to post an issue!
 
 ## 🗺️ Roadmap
 
