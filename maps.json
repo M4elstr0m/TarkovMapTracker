@@ -2,89 +2,669 @@
     "customs": {
         "name": "customs",
         "xmin": -375,
-	    "xmax": 700,
-	    "zmin": -307,
-	    "zmax": 237
+        "xmax": 700,
+        "zmin": -307,
+        "zmax": 237,
+        "pmc_extracts": [
+            {
+                "name":"ZB-1011",
+                "location": [
+                    620,
+                    -130
+                ]
+            },
+            {
+                "name":"ZB-1012",
+                "location": [
+                    465,
+                    -110
+                ]
+            },
+            {
+                "name":"Old Gas Station",
+                "location": [
+                    310,
+                    -175
+                ]
+            },
+            {
+                "name":"ZB-013",
+                "location": [
+                    200,
+                    -155
+                ]
+            },
+            {
+                "name":"Dorms V-Ex",
+                "location": [
+                    180,
+                    210
+                ]
+            },
+            {
+                "name":"RUAF Roadblock",
+                "location": [
+                    -10,
+                    -140
+                ]
+            },
+            {
+                "name":"Smugglers' Boat",
+                "location": [
+                    -42,
+                    120
+                ]
+            },
+            {
+                "name":"Trailer Park",
+                "location": [
+                    -315,
+                    -235
+                ]
+            },
+            {
+                "name":"Railroad Passage (Flare)",
+                "location": [
+                    140,
+                    -330
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name": "Crossroads",
+                "location": [
+                    -335,
+                    -90
+                ]
+            },
+            {
+                "name": "Boiler Room Basement (Co-Op)",
+                "location": [
+                    100,
+                    -45
+                ]
+            }
+        ]
     },
-
     "factory": {
         "name": "factory",
         "xmin": -67,
-	    "xmax": 79,
-	    "zmin": -65,
-	    "zmax": 67
+        "xmax": 79,
+        "zmin": -65,
+        "zmax": 67,
+        "pmc_extracts": [
+            {
+                "name":"Gate 3",
+                "location": [
+                    59,
+                    62
+                ]
+            },
+            {
+                "name":"Cellars",
+                "location": [
+                    74,
+                    -29
+                ]
+            },
+            {
+                "name":"Smugglers' Passage",
+                "location": [
+                    48,
+                    -29
+                ]
+            },
+            {
+                "name":"Courtyard Gate",
+                "location": [
+                    23,
+                    69
+                ]
+            },
+            {
+                "name":"Med Tent",
+                "location": [
+                    -18,
+                    -61
+                ]
+            },
+            {
+                "name":"Gate 0",
+                "location": [
+                    -63,
+                    55
+                ]
+            }
+        ]
     },
-
     "groundzero": {
         "name": "groundzero",
         "xmin": -100,
-	    "xmax": 250,
-	    "zmin": -120,
-	    "zmax": 360
+        "xmax": 250,
+        "zmin": -120,
+        "zmax": 360,
+        "pmc_extracts": [
+            {
+                "name":"Police Cordon V-Ex",
+                "location": [
+                    -20,
+                    115
+                ]
+            },
+            {
+                "name":"Tartowers Sales Office",
+                "location": [
+                    190,
+                    135
+                ]
+            },
+            {
+                "name":"Mira Ave (Flare)",
+                "location": [
+                    59,
+                    62
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name":"Emercom Checkpoint",
+                "location": [
+                    150,
+                    -100
+                ]
+            },
+            {
+                "name":"Scav Checkpoint (Co-Op)",
+                "location": [
+                    25,
+                    -80
+                ]
+            },
+            {
+                "name":"Nakatani Basement Stairs",
+                "location": [
+                    -18,
+                    335
+                ]
+            }
+        ]
     },
-
     "interchange": {
         "name": "interchange",
         "xmin": -364,
-	    "xmax": 532,
-	    "zmin": -442,
-	    "zmax": 453
+        "xmax": 532,
+        "zmin": -442,
+        "zmax": 453,
+        "pmc_extracts": [
+            {
+                "name":"Power Station V-Ex",
+                "location": [
+                    -255,
+                    -370
+                ]
+            },
+            {
+                "name":"Hole in the Fence",
+                "location": [
+                    -220,
+                    -37
+                ]
+            },
+            {
+                "name":"Saferoom Exfil",
+                "location": [
+                    -48,
+                    42
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name":"Railway Exfil",
+                "location": [
+                    470,
+                    -434
+                ]
+            },
+            {
+                "name":"Emercom Checkpoint",
+                "location": [
+                    -323,
+                    266
+                ]
+            },
+            {
+                "name":"Scav Camp (Co-Op)",
+                "location": [
+                    277,
+                    -32
+                ]
+            }
+        ]
     },
-
     "labs": {
         "name": "labs",
         "xmin": -287,
-	    "xmax": -80,
-	    "zmin": -477,
-	    "zmax": -193
+        "xmax": -80,
+        "zmin": -477,
+        "zmax": -193,
+        "pmc_extracts": [
+            {
+                "name":"Parking Gate",
+                "location": [
+                    -230,
+                    -430
+                ]
+            },
+            {
+                "name":"Ventilation Shaft",
+                "location": [
+                    -145,
+                    -396
+                ]
+            },
+            {
+                "name":"Hangar Gate",
+                "location": [
+                    -170,
+                    -245
+                ]
+            },
+            {
+                "name":"Sewage Conduit",
+                "location": [
+                    -122,
+                    -258
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name":"Main Elevator",
+                "location": [
+                    -280,
+                    -330
+                ]
+            },
+            {
+                "name":"Cargo Elevator",
+                "location": [
+                    -112,
+                    -410
+                ]
+            },
+            {
+                "name":"Medical Block Elevator",
+                "location": [
+                    -112,
+                    -343
+                ]
+            }
+        ]
     },
-
     "lighthouse": {
         "name": "lighthouse",
         "xmin": -545,
-	    "xmax": 515,
-	    "zmin": -998,
-	    "zmax": 725
+        "xmax": 515,
+        "zmin": -998,
+        "zmax": 725,
+        "pmc_extracts": [
+            {
+                "name":"Southern Road",
+                "location": [
+                    -300,
+                    420
+                ]
+            },
+            {
+                "name":"Mountain Pass",
+                "location": [
+                    -176,
+                    -9
+                ]
+            },
+            {
+                "name":"Path to Shoreline",
+                "location": [
+                    -363,
+                    -124
+                ]
+            },
+            {
+                "name":"Passage by the Lake",
+                "location": [
+                    -365,
+                    -555
+                ]
+            },
+            {
+                "name":"Road to Military Base V-Ex",
+                "location": [
+                    -330,
+                    -790
+                ]
+            },
+            {
+                "name":"Northern Checkpoint",
+                "location": [
+                    110,
+                    -990
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name":"Armored Train",
+                "location": [
+                    10,
+                    -875
+                ]
+            },
+            {
+                "name":"Side Tunnel (Co-Op)",
+                "location": [
+                    -75,
+                    -310
+                ]
+            }
+        ]
     },
-
     "reserve": {
         "name": "reserve",
         "xmin": -303,
-	    "xmax": 289,
-	    "zmin": -275,
-	    "zmax": 275
+        "xmax": 289,
+        "zmin": -275,
+        "zmax": 275,
+        "pmc_extracts": [
+            {
+                "name":"Exit to Woods",
+                "location": [
+                    35,
+                    -222
+                ]
+            },
+            {
+                "name":"Cliff Descent",
+                "location": [
+                    -10,
+                    210
+                ]
+            },
+            {
+                "name":"D-2",
+                "location": [
+                    -120,
+                    170
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name":"Bunker Hermetic Door",
+                "location": [
+                    59,
+                    -190
+                ]
+            },
+            {
+                "name":"Armored Train",
+                "location": [
+                    144,
+                    -146
+                ]
+            },
+            {
+                "name":"Scav Lands (Co-Op)",
+                "location": [
+                    -127,
+                    -144
+                ]
+            },
+            {
+                "name":"Sewer Manhole",
+                "location": [
+                    39,
+                    74
+                ]
+            }
+        ]
     },
-
     "shoreline": {
         "name": "shoreline",
         "xmin": -1060,
-	    "xmax": 508,
-	    "zmin": -415,
-	    "zmax": 618
+        "xmax": 508,
+        "zmin": -415,
+        "zmax": 618,
+        "pmc_extracts": [
+            {
+                "name":"Path to Lighthouse",
+                "location": [
+                    448,
+                    -258
+                ]
+            },
+            {
+                "name":"Tunnel",
+                "location": [
+                    373,
+                    313
+                ]
+            },
+            {
+                "name":"Pier Boat",
+                "location": [
+                    -335,
+                    555
+                ]
+            },
+            {
+                "name":"Climber's Trail",
+                "location": [
+                    -212,
+                    -361
+                ]
+            },
+            {
+                "name":"Mountain Bunker",
+                "location": [
+                    -390,
+                    -390
+                ]
+            },
+            {
+                "name":"Road to North V-Ex",
+                "location": [
+                    -545,
+                    -385
+                ]
+            },
+            {
+                "name":"Road to Customs",
+                "location": [
+                    -860,
+                    0
+                ]
+            },
+            {
+                "name":"Railway Bridge",
+                "location": [
+                    -1030,
+                    300
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name":"Smugglers' Path (Co-Op)",
+                "location": [
+                    -730,
+                    -256
+                ]
+            }
+        ]
     },
-
     "streets": {
         "name": "streets",
         "xmin": -280,
-	    "xmax": 323,
-	    "zmin": -317,
-	    "zmax": 554
+        "xmax": 323,
+        "zmin": -317,
+        "zmax": 554,
+        "pmc_extracts": [
+            {
+                "name":"Expo Checkpoint",
+                "location": [
+                    210,
+                    -105
+                ]
+            },
+            {
+                "name":"Stylobate Building Elevator",
+                "location": [
+                    -45,
+                    -71
+                ]
+            },
+            {
+                "name":"Smugglers' Basement",
+                "location": [
+                    75,
+                    46
+                ]
+            },
+            {
+                "name":"Klimov Street (Flare)",
+                "location": [
+                    -263,
+                    42
+                ]
+            },
+            {
+                "name":"Collapsed Crane",
+                "location": [
+                    214,
+                    272
+                ]
+            },
+            {
+                "name":"Sewer River",
+                "location": [
+                    -265,
+                    220
+                ]
+            },
+            {
+                "name":"Damaged House",
+                "location": [
+                    -247,
+                    342
+                ]
+            },
+            {
+                "name":"Crash Site",
+                "location": [
+                    312,
+                    404
+                ]
+            },
+            {
+                "name":"Primorsky Ave Taxi V-Ex",
+                "location": [
+                    0,
+                    460
+                ]
+            },
+            {
+                "name":"Courtyard",
+                "location": [
+                    -150,
+                    500
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name":"Pinewood Basement (Co-Op)",
+                "location": [
+                    -115,
+                    62
+                ]
+            }
+        ]
     },
-
     "woods": {
         "name": "woods",
         "xmin": -700,
-	    "xmax": 650,
-	    "zmin": -945,
-	    "zmax": 470,
-
+        "xmax": 650,
+        "zmin": -945,
+        "zmax": 470,
         "pmc_extracts": [
             {
                 "name": "ZB-014",
-                "location": [444, 59]
+                "location": [
+                    444,
+                    59
+                ]
+            },
+            {
+                "name": "Outskirts",
+                "location": [
+                    350,
+                    358
+                ]
+            },
+            {
+                "name": "Power Line Passage (Flare)",
+                "location": [
+                    574,
+                    -85
+                ]
+            },
+            {
+                "name": "Bridge V-Ex",
+                "location": [
+                    -485,
+                    -505
+                ]
+            },
+            {
+                "name": "Northern UN Roadblock",
+                "location": [
+                    -555,
+                    -65
+                ]
+            },
+            {
+                "name": "ZB-016",
+                "location": [
+                    -390,
+                    10
+                ]
+            },
+            {
+                "name": "UN Roadblock",
+                "location": [
+                    -540,
+                    285
+                ]
+            },
+            {
+                "name": "RUAF Gate",
+                "location": [
+                    -140,
+                    445
+                ]
+            }
+        ],
+        "shared_extracts": [
+            {
+                "name": "Friendship Bridge (Co-Op)",
+                "location": [
+                    93,
+                    -844
+                ]
             }
         ]
     }
 }
-
- 

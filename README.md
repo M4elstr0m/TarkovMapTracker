@@ -153,7 +153,7 @@ You can see every changelogs in the [releases](https://github.com/M4elstr0m/Tark
 
 - [x] Initial project setup [v1.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v1.0.0)
 - [x] Complete overhaul and QoL improvements [v2.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v2.0.0)
-- [ ] Add more points of interest in each map (such as extracts)
+- [x] Add more points of interest in each map (such as extracts)
 - [ ] A UI Panel to place custom point of interest on maps (such as quests)
 - [ ] Github's Social Preview update 
 - [ ] Tutorial/Showcase footage
