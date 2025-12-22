@@ -154,11 +154,27 @@ You can see every changelogs in the [releases](https://github.com/M4elstr0m/Tark
 - [x] Initial project setup [v1.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v1.0.0)
 - [x] Complete overhaul and QoL improvements [v2.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v2.0.0)
 - [x] Add more points of interest in each map (such as extracts)
+- [ ] v3.0 - Whole code refactoring (building it from scratch, again...)
+
+I want to include the following in the v3.0.0:
+
+- [ ] Performance update
+- [ ] New UI/UX
+- [ ] v1.0 Maps
+- [ ] See your footprints (path displaying)
 - [ ] A UI Panel to place custom point of interest on maps (such as quests)
+- [ ] Keybind to zoom-in without opening the Settings panel
+- [ ] Pan & Rotate the map
+- [ ] Quests?
+- [ ] Online team feature
+- [ ] Pinging site system
+
+Now this is the rest of the roadmap
+    
+- [ ] Danger Zone (heatmap) display
+- [ ] Anonymous stats (Where did you die? Where did you find that LedX?)
 - [ ] Github's Social Preview update 
 - [ ] Tutorial/Showcase footage
-- [ ] Keybind to zoom-in without opening the Settings panel
-- [ ] Source code refactoring
 - [ ] Open Source maybe?!
 - [ ] Who knows!
 
