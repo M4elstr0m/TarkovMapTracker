@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors&right_color=orange) ![GitHub Repo stars](https://img.shields.io/github/stars/M4elstr0m/TarkovMapTracker)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors&right_color=orange) ![GitHub Repo stars](https://badgen.net/github/stars/m4elstr0m/TarkovMapTracker?color=yellow)
  ![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/Size-19_Mo-green) ![Static Badge](https://img.shields.io/badge/Languages-1-blue) ![Static Badge](https://img.shields.io/badge/Platform-Windows-red)
 
 <!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
