@@ -188,3 +188,13 @@ This software has been created using the following Golang modules: ```wailsapp/w
 
 <div align="center"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif"></div>
 <div align="center"><b>By the power of Go.</b></div>
+
+## ⭐ Star History
+
+<div align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=M4elstr0m/TarkovMapTracker&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=M4elstr0m/TarkovMapTracker&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=M4elstr0m/TarkovMapTracker&type=date&legend=top-left" />
+ </picture>
+</div>
