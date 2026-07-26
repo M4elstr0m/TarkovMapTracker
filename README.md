@@ -3,8 +3,8 @@
 
 <div align="center">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors&right_color=orange) ![GitHub Repo stars](https://badgen.net/github/stars/m4elstr0m/TarkovMapTracker?color=yellow)
- ![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/Size-19_Mo-green) ![Static Badge](https://img.shields.io/badge/Languages-1-blue) ![Static Badge](https://img.shields.io/badge/Platform-Windows-red)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors&right_color=orange) ![GitHub Repo stars](https://img.shields.io/github/stars/M4elstr0m/TarkovMapTracker)
+ ![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/Size-19_Mo-green) ![Static Badge](https://img.shields.io/badge/Languages-4-blue) ![Static Badge](https://img.shields.io/badge/Platform-Windows-red)
 
 <!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
 
@@ -30,8 +30,11 @@
 <div>
 
 [![English](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](.)
+[![French](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](.)
+[![Russian](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/RU.svg)](.)
+[![Chinese](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/CN.svg)](.)
 <!--
-[![Français](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md)
+[![French](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md)
 [![Russian](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/RU.svg)](README.ru.md)
 -->
 </div>
@@ -89,7 +92,7 @@ To display your position correctly, you will have to select among the maps the o
 
 These are the feature of the TarkovMapTracker
 
-_Entries marked by a "*", are brand-new features from v3.0.0_
+_Entries marked by a "*", are brand-new features from v3.0.x_
 
 - Geolocate player on a map
 - Calculate player's rotation on a map
@@ -100,9 +103,10 @@ _Entries marked by a "*", are brand-new features from v3.0.0_
 - _*_ Ability to zoom-in on player (Find player button)
 - _*_ Reset the view to default  
 - _*_ Display every POIs available in the game (extracts + loots)
-- _*_ Detect new screenshots without ranging over it (+performance)
+- _*_ Detect new screenshots with new method (+performance)
 - _*_ Enable/disable POIs on the map using a Filters panel
 - _*_ Create custom POIs (ping system)
+- _*_ i18n Localization
 
 ## 🛠️ Settings
 
@@ -121,6 +125,13 @@ This settings allows you to overwrite the default EFT's screenshots path (`C:\Us
 You should not input quotes (`"` or `'`), the software handles it automatically.
 
 This feature was implemented as a fix for [this issue](https://github.com/M4elstr0m/TarkovMapTracker/discussions/2).
+
+</details>
+
+<details>
+<summary><h3>Language</h3></summary>
+
+This settings allows you to change your current language.
 
 </details>
 
@@ -150,9 +161,9 @@ Opens the folder containing Tarkov's screenshots used by this app
 
 ## 📸 Screenshots
 
-| | |
-|:-------------------------:|:-------------------------:|
-| <img width="100%" alt="v3.0.0 loading" src="https://github.com/user-attachments/assets/894ed2b1-8c1d-4c26-b3db-14e49dea4dc0" /> | <img width="100%" alt="v3.0.0 version pop-up" src="https://github.com/user-attachments/assets/c3a2882c-0068-4a31-84ba-9e87535fd190" /> |
+|                                                                                                                                  |                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| <img width="100%" alt="v3.0.0 loading" src="https://github.com/user-attachments/assets/894ed2b1-8c1d-4c26-b3db-14e49dea4dc0" />  | <img width="100%" alt="v3.0.0 version pop-up" src="https://github.com/user-attachments/assets/c3a2882c-0068-4a31-84ba-9e87535fd190" /> |
 | <img width="100%" alt="v3.0.0 homepage" src="https://github.com/user-attachments/assets/55be6372-5d4a-438d-a470-3f546b945065" /> | <img width="100%" alt="v3.0.0 settings panel" src="https://github.com/user-attachments/assets/cd0c1bc0-a9e8-4a34-ac70-7c65b034992b" /> |
 
 ## 🖥️ Platforms
@@ -161,8 +172,8 @@ This software is only for **Windows** and is only helpful when you have Escape F
 ## 🚧 Known Issues
 <!-- 🚧✅ --->
 
-- Could not test player rotation on Labs & Factory
-- Sometimes the POIs will be stuck. Just resize the app window using your mouse it should trigger recalculation.
+- ~~Could not test player rotation on Labs & Factory~~ _- fixed in v3.0.1_
+- ~~Sometimes the POIs will be stuck. Just resize the app window using your mouse it should trigger recalculation~~ _- fixed in v3.0.1_
 
 Don't hesitate to post an issue!
 
@@ -174,6 +185,7 @@ You can see every changelogs in the [releases](https://github.com/M4elstr0m/Tark
 - [x] Complete overhaul and QoL improvements [v2.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v2.0.0)
 - [x] Add more points of interest in each map (such as extracts)
 - [x] v3.0.0 - Whole code refactoring (building it from scratch, again...)
+- [x] v3.0.1 - Localization update
 - [ ] Quests panel
 - [ ] Coop team feature
 - [ ] Tutorial video
@@ -188,13 +200,3 @@ This software has been created using the following Golang modules: ```wailsapp/w
 
 <div align="center"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif"></div>
 <div align="center"><b>By the power of Go.</b></div>
-
-## ⭐ Star History
-
-<div align="center">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=M4elstr0m/TarkovMapTracker&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=M4elstr0m/TarkovMapTracker&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=M4elstr0m/TarkovMapTracker&type=date&legend=top-left" />
- </picture>
-</div>
