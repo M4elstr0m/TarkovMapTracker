@@ -1,4 +1,10 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD036 -->
+<!-- markdownlint-disable MD049 -->
+
 ## <h1 align="center">🧭 Tarkov Map Tracker by M4elstr0m</h1>
+
 <p align="center">Watch your live in-game position in Tarkov 🗺️</p>
 
 <div align="center">
@@ -22,7 +28,6 @@
  <img width="2048" height="2048" alt="App icon" src="https://github.com/user-attachments/assets/f8a0a893-e80a-4390-9d9a-5f42f378b8e8"
   style="width:30%; height: auto"/>
 
-  
 </div>
 
 <ins>**Languages:**</ins>
@@ -58,6 +63,7 @@ Do not hesitate to reach me, using the links on <a href="https://github.com/M4el
 > This project is for educational purposes only. The authors are not responsible for any misuse of the software.
 >
 > **What this app can't do:**
+>
 > - Access internal live location of in-game elements, such as loot or enemies
 > - Modify your in-game location
 >
@@ -73,6 +79,7 @@ Download the [latest](https://github.com/M4elstr0m/TarkovMapTracker/releases/lat
 Don't forget to check [the changelogs](https://github.com/M4elstr0m/TarkovMapTracker/releases/latest) to see what's new!
 
 ## 📚 Usage
+
 Just extract the archive and launch ***TarkovMapTracker.exe*** (if Windows prevents you to open the app, just click on "More infos" and "Run anyway")
 
 <br>
@@ -167,6 +174,7 @@ Opens the folder containing Tarkov's screenshots used by this app
 | <img width="100%" alt="v3.0.0 homepage" src="https://github.com/user-attachments/assets/55be6372-5d4a-438d-a470-3f546b945065" /> | <img width="100%" alt="v3.0.0 settings panel" src="https://github.com/user-attachments/assets/cd0c1bc0-a9e8-4a34-ac70-7c65b034992b" /> |
 
 ## 🖥️ Platforms
+
 This software is only for **Windows** and is only helpful when you have Escape From Tarkov installed on your computer
 
 ## 🚧 Known Issues
@@ -186,11 +194,16 @@ You can see every changelogs in the [releases](https://github.com/M4elstr0m/Tark
 - [x] Add more points of interest in each map (such as extracts)
 - [x] v3.0.0 - Whole code refactoring (building it from scratch, again...)
 - [x] v3.0.1 - Localization update
-- [ ] Quests panel
-- [ ] Coop team feature
+- [x] v3.0.2 - More POIs & Filters QoL update
+- [ ] Map view rotation
+- [ ] More localization & localized README.md files
+- [ ] Tips and Tricks pop-up
 - [ ] Tutorial video
+- [ ] Quests panel
+- [ ] Coop Team feature (without servers)
 
 ## 🗒️ Credits
+
 <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>: this software has been made for this game after all<br>
 <a href="https://tarkov.dev">Tarkov.dev</a> and <a href="https://github.com/Shebuka">Shebuka</a>: for the maps used in this software and their help to check for potential copyright issues<br>
 <a href="https://wails.io/">The Wails Project</a>: the most cool way to build cool UIs in Go<br>
@@ -198,5 +211,5 @@ You can see every changelogs in the [releases](https://github.com/M4elstr0m/Tark
 This software has been created using the following Golang modules: ```wailsapp/wails/v3```, ```fsnotify/fsnotify```, ```M4elstr0m/go-logging-utils``` and ```pkg/browser```
 <br>
 
-<div align="center"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif"></div>
+<div align="center"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" alt="Dancing Gopher GIF"></div>
 <div align="center"><b>By the power of Go.</b></div>
