@@ -9,8 +9,12 @@
 
 <div align="center">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors&right_color=orange) ![GitHub Repo stars](https://img.shields.io/github/stars/M4elstr0m/TarkovMapTracker)
- ![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey) ![Static Badge](https://img.shields.io/badge/Size-19_Mo-green) ![Static Badge](https://img.shields.io/badge/Languages-4-blue) ![Static Badge](https://img.shields.io/badge/Platform-Windows-red)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.TarkovMapTracker&left_text=Visitors&right_color=orange)
+![Stars Badge](https://img.shields.io/github/stars/M4elstr0m/TarkovMapTracker?style=flat&color=yellow&label=Stars)
+![License Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey)
+![Size Badge](https://img.shields.io/badge/Size-19_Mo-green)
+![Languages Badge](https://img.shields.io/badge/Languages-4-blue)
+![Platform Badge](https://img.shields.io/badge/Platform-Windows-red)
 
 <!-- ![Github All Releases](https://img.shields.io/github/downloads/M4elstr0m/TarkovMapTracker/total.svg) -->
 
@@ -34,10 +38,10 @@
 
 <div>
 
-[![English](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](.)
-[![French](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](.)
-[![Russian](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/RU.svg)](.)
-[![Chinese](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/CN.svg)](.)
+[![English](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/GB.svg)](https://github.com/M4elstr0m/TarkovMapTracker)
+[![French](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](https://github.com/M4elstr0m/TarkovMapTracker/stargazers)
+[![Russian](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/RU.svg)](https://github.com/M4elstr0m/TarkovMapTracker/stargazers)
+[![Chinese](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/CN.svg)](https://github.com/M4elstr0m/TarkovMapTracker/stargazers)
 <!--
 [![French](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/FR.svg)](README.fr.md)
 [![Russian](https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/RU.svg)](README.ru.md)
@@ -189,15 +193,17 @@ Don't hesitate to post an issue!
 
 You can see every changelogs in the [releases](https://github.com/M4elstr0m/TarkovMapTracker/releases) tab
 
-- [x] Initial project setup [v1.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v1.0.0)
-- [x] Complete overhaul and QoL improvements [v2.0.0](https://github.com/M4elstr0m/TarkovMapTracker/releases/tag/v2.0.0)
-- [x] Add more points of interest in each map (such as extracts)
-- [x] v3.0.0 - Whole code refactoring (building it from scratch, again...)
+- [x] v1.0.0 - Initial project setup (Python)
+- [x] v2.0.0 - Complete overhaul and QoL improvements (Go + Fyne)
+- [x] v3.0.0 - Complete code refactoring (building it from scratch, again), UI remake, more points of interest (Go + Wails v3)
 - [x] v3.0.1 - Localization update
 - [x] v3.0.2 - More POIs & Filters QoL update
-- [ ] Map view rotation
+- [x] v3.0.3 - Settings to find the player automatically on every new screenshot
+- [x] v3.0.3 - Map view rotation
 - [ ] More localization & localized README.md files
+- [ ] POI data update & additions
 - [ ] Tips and Tricks pop-up
+- [ ] Static website on github.io
 - [ ] Tutorial video
 - [ ] Quests panel
 - [ ] Coop Team feature (without servers)
